@@ -45,6 +45,13 @@ Get started with Remotion by reading the [fundamentals page](https://www.remotio
 
 We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
 
+## Todo
+[Extract audio from video with Typescript and ffmpeg](https://docs.yemreak.com/blog/programming/extract-audio-from-video-with-typescript-and-ffmpeg)
+
+[Leon is your open-source personal assistant.](https://docs.getleon.ai/)
+STT, or Speech-To-Text, transforms an audio stream (speech) to a string (text).
+TTS or (Text-To-Speech) transforms a string (text) to an audio stream (speech).
+
 ## Issues
 
 Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
